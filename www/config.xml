@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns       = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = ""
+        versionCode = "10"
+        version     = "1.1.0">
+ 
+    <name>Pong</name>
+ 
+    <description>Flash Pong game</description>
+ 
+    <author href="" email="amandamcintosh@gmail.com">Amanda McIntosh</author>
+  
+</widget>
